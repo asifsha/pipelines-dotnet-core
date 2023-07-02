@@ -1,4 +1,4 @@
-[https://github.com/asifsha/pipelines-dotnet-core](https://github.com/asifsha/pipelines-dotnet-core)
+[![Build Status](https://dev.azure.com/asif-sharif0104/ci-cd-pipeline/_apis/build/status%2Fasifsha.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/asif-sharif0104/ci-cd-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
